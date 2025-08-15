@@ -18,3 +18,4 @@ This project is a personal portfolio website developed as part of the SENSTRON W
 - HTML
 - CSS
 - JavaScript
+![image alt](https://github.com/Soubhagya164/My-Portfolio/blob/6a881da7842e37178fab2d5902f7b27090382702/img/Screenshot%202025-08-12%20233302.png)
